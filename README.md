@@ -31,7 +31,7 @@
     </td>
     <td width="50%">
       <a href="https://github.com/anuragthazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litchyy&layout=compact&theme=react">
+        <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Litchyy&layout=compact&theme=react](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Litchyy&theme=react)">
       </a>
     </td>
   </tr>
