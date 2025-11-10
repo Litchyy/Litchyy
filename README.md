@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://litchyy.nl">
-    <img src="https://img.shields.io/badge/Visit-My_Website-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Visit-litchyy.nl-blue?style=for-the-badge">
   </a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/date.svg?url=https%3A%2F%2Fgithub.com%2FLitchyy%2FLitchyy&count_bg=%2379C83D&title_bg=%23555555&icon=&title=views&style=flat">
 </p>
@@ -26,12 +26,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/tipsy/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Litchyy&theme=react&hide_name=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Litchyy&theme=react&hide_name=true&show_icons=true&include_all_commits=true&count_private=true">
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/anuragthazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litchyy&layout=compact&theme=vision-friendly-dark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litchyy&layout=compact&theme=react">
       </a>
     </td>
   </tr>
