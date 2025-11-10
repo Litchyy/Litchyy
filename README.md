@@ -4,7 +4,7 @@
   <a href="https://litchyy.nl">
     <img src="https://img.shields.io/badge/Visit-litchyy.nl-blue?style=for-the-badge">
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/date.svg?url=https%3A%2F%2Fgithub.com%2FLitchyy%2FLitchyy&count_bg=%2379C83D&title_bg=%23555555&icon=&title=views&style=flat">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FLitchyy&label=Visits&icon=github&color=%23198754&message=&style=for-the-badge&tz=Europe%2FAmsterdam">
 </p>
 
 ---
